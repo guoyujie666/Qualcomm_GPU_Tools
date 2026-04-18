@@ -24,7 +24,7 @@
       "title": "风险提示",
       "message": "使用此工具可能导致您的设备变砖，风险自担。",
       "isClosable": false
-    }
+    },
     {
       "severity": "Warning",
       "title": "重要提醒",
