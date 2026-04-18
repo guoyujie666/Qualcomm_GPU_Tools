@@ -25,5 +25,11 @@
       "message": "使用此工具可能导致您的设备变砖，风险自担。",
       "isClosable": false
     }
+    {
+      "severity": "Warning",
+      "title": "重要提醒",
+      "message": "Xiaomi 12 / 12 Pro / 12S Ultra 暂时不要使用工具进行降级操作，可能会导致您的设备变砖。",
+      "isClosable": false
+    }
   ]
 }
