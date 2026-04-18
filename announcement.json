@@ -1,0 +1,29 @@
+{
+  "announcements": [
+    {
+      "severity": "Success",
+      "title": "版本更新",
+      "message": "v2.0-Beta 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "icon": "Success",
+      "isClosable": false
+    },
+    {
+      "severity": "Informational",
+      "title": "温馨提示",
+      "message": "如果您的设备的处理器在此漏洞影响范围内，但出厂为 HyperOS 系统，则使用绕过社区限制的功能是无效的。\nAndroid 14 系统的设备由于缺少提权服务，无法使用此工具的任何功能。（例如，Redmi K50 电竞版。）",
+      "isClosable": false
+    },
+    {
+      "severity": "Warning",
+      "title": "重要提醒",
+      "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。（Xiaomi 12 系列及 Xiaomi 12S 系列可无视）",
+      "isClosable": false
+    },
+    {
+      "severity": "Warning",
+      "title": "风险提示",
+      "message": "使用此工具可能导致您的设备变砖，风险自担。",
+      "isClosable": false
+    }
+  ]
+}
