@@ -3,8 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta03 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v2.0-Beta04 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
       "icon": "Success",
+      "isClosable": false
+    },
+    {
+      "severity": "Informational",
+      "title": "更新日志",
+      "message": "- 修复 Boot、降级小包、工程 ABL 保存不规范问题\n- 修复日志框可能不显示的问题",
       "isClosable": false
     },
     {
@@ -17,12 +23,6 @@
       "severity": "Warning",
       "title": "重要提醒",
       "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。（Xiaomi 12 系列及 Xiaomi 12S 系列可无视）",
-      "isClosable": false
-    },
-    {
-      "severity": "Warning",
-      "title": "重要提醒",
-      "message": "此版本为测试版，在进行操作的时候最好不要切换界面，可能会变砖：）",
       "isClosable": false
     },
     {
