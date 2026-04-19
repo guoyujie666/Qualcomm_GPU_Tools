@@ -8,6 +8,6 @@
     "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta04/Qualcomm_GPU_Tools_WinUI3.exe",
     "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta04/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 修复 下载线刷包无法停止\n- 更改 在任务进行时不能切换页面\n- 修复 日志不同步问题\n- 修复 下载链接不正确问题",
+  "releaseNotes": "- 修复 Boot、降级小包、工程 ABL、Kallsyms 地址保存不规范问题\n- 修复日志框可能不显示日志的问题",
   "forceUpdate": true
 }
