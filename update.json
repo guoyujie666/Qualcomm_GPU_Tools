@@ -1,13 +1,16 @@
 {
-  "version": "v2.0-Beta02",
-  "versionCode": 26041920,
-  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools_WinUI3.exe",
+  "version": "v2.0-Beta03",
+  "versionCode": 26041923,
+  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta03/Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta03/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta03/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta03/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta03/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 修复 一些按钮不起作用的问题",
+  "releaseNotes": "- 修复 下载线刷包无法停止
+- 更改 在任务进行时不能切换页面
+- 修复 日志不同步问题
+- 修复 下载链接不正确问题",
   "forceUpdate": true
 }
