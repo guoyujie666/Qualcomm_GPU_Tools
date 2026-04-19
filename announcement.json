@@ -3,7 +3,7 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v2.0-Beta01 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
       "icon": "Success",
       "isClosable": false
     },
@@ -22,7 +22,7 @@
     {
       "severity": "Warning",
       "title": "重要提醒",
-      "message": "Xiaomi 12 / 12 Pro 暂时不要使用工具进行降级操作，可能会导致您的设备变砖。",
+      "message": "此版本为测试版，在进行操作的时候最好不要切换界面，可能会变砖：）",
       "isClosable": false
     },
     {
