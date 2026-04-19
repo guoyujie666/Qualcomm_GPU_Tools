@@ -10,7 +10,7 @@
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 Boot、降级小包、工程 ABL 保存不规范问题\n- 修复日志框可能不显示的问题",
+      "message": "- 修复 Boot、降级小包、工程 ABL、Kallsyms 地址保存不规范问题\n- 修复日志框可能不显示日志的问题",
       "isClosable": false
     },
     {
