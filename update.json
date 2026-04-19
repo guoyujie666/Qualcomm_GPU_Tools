@@ -1,13 +1,13 @@
 {
-  "version": "v2.0-Beta01",
-  "versionCode": 26041917,
-  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
+  "version": "v2.0-Beta02",
+  "versionCode": 26041920,
+  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta02/Qualcomm_GPU_Tools.exe"
   ],
-  "releaseNotes": "测试更新功能，强制更新",
+  "releaseNotes": "- 修复 一些按钮不起作用的问题",
   "forceUpdate": true
 }
