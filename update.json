@@ -1,13 +1,13 @@
 {
   "version": "v2.0-Beta01",
   "versionCode": 26041917,
-  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0.1/Qualcomm_GPU_Tools.exe",
+  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0.1/Qualcomm_GPU_Tools.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0.1/Qualcomm_GPU_Tools.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0.1/Qualcomm_GPU_Tools.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0.1/Qualcomm_GPU_Tools.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta01/Qualcomm_GPU_Tools.exe"
   ],
-  "releaseNotes": "修复了降级功能的若干 Bug。\n优化了日志滚动性能。\n新增手动刷新公告功能。",
+  "releaseNotes": "测试更新功能，强制更新",
   "forceUpdate": true
 }
