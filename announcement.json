@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta04 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v2.0-Beta05 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 Boot、降级小包、工程 ABL、Kallsyms 地址保存不规范问题\n- 修复日志框可能不显示日志的问题",
+      "message": "- 修复 降级时偶发卡 FastbootD 问题\n- 修复 线刷包下载工具路径问题",
       "isClosable": false
     },
     {
