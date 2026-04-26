@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta06 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v2.0-Beta07 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 线刷包下载工具路径问题",
+      "message": "- 修复 绕社区解压 Boot 逻辑不同\n- 添加 8 Elite 漏洞解锁（待开发）\n- 添加 安装驱动功能\n- 添加 原装数据线提醒",
       "isClosable": false
     },
     {
