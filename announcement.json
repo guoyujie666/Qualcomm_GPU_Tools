@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta07 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v2.0-Beta08 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 绕社区解压 Boot 逻辑不同\n- 添加 8 Elite 漏洞解锁（待开发）\n- 添加 安装驱动功能\n- 添加 原装数据线提醒",
+      "message": "- 添加 Fastboot 输出翻译\n- 添加 8 Gen 2 漏洞解锁（待开发）",
       "isClosable": false
     },
     {
