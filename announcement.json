@@ -10,7 +10,7 @@
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 添加 Fastboot 输出翻译\n- 添加 8 Gen 2 漏洞解锁（待开发）",
+      "message": "- 添加 Fastboot 输出翻译\n- 添加 8 Gen 2 漏洞解锁（暂未开发完成）\n- 添加 临时密码验证功能\n- 更改 下载服务器",
       "isClosable": false
     },
     {
