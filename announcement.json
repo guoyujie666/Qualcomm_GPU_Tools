@@ -22,7 +22,7 @@
     {
       "severity": "Warning",
       "title": "重要提醒",
-      "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。（Xiaomi 12 系列及 Xiaomi 12S 系列可无视）",
+      "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。（Xiaomi 12 系列、 Xiaomi 12S 系列及 Redmi Note 12 Turbo 可无视）",
       "isClosable": false
     },
     {
