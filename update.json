@@ -1,13 +1,13 @@
 {
-  "version": "v2.0-Beta07",
-  "versionCode": 26042618,
-  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta07/Qualcomm_GPU_Tools_WinUI3.exe",
+  "version": "v2.0-Beta08",
+  "versionCode": 26050304,
+  "downloadUrl": "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta08/Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta07/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta07/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta07/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta07/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta08/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta08/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta08/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta08/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 修复 绕社区解压 Boot 逻辑不同\n- 添加 8 Elite 漏洞解锁（待开发）\n- 添加 安装驱动功能\n- 添加 原装数据线提醒",
+  "releaseNotes": "- 添加 Fastboot 输出翻译\n- 添加 8 Gen 2 漏洞解锁（暂未开发完成）\n- 添加 临时密码验证功能\n- 更改 下载服务器",
   "forceUpdate": true
 }
