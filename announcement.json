@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v2.0-Beta09 已上线，更好的 UI，更丰富的功能，尽在 v2.0。",
+      "message": "v26.5 已上线，为您带来更好的 UI，更丰富的功能。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 添加 8 Gen 2 漏洞解锁\n- 添加 8 Gen 2 及以上免解降级\n- 修改 下载线刷包时可以选择版本\n- 更改 下载服务器（是的没错，再一次）",
+      "message": "- 版本 我们，来到了正式版！\n- 修复 8 Gen 1 降级界面的下载线刷包功能异常\n- 添加 8 Elite 解锁功能",
       "isClosable": false
     },
     {
