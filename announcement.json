@@ -10,7 +10,7 @@
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 版本 我们，来到了正式版！\n- 修复 8 Gen 1 降级界面的下载线刷包功能异常\n- 添加 8 Elite 解锁功能",
+      "message": "- 版本 我们，来到了正式版！\n- 修复 8 Gen 1 降级界面的下载线刷包功能异常\n- 添加 8 Elite 解锁功能\n- 优化 获取临时 Root 时使用两种安装管理器方法，修复指令错误",
       "isClosable": false
     },
     {
