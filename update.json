@@ -1,14 +1,14 @@
 {
-  "version": "v2.0-Beta09",
-  "versionCode": 26050504,
+  "version": "v26.5",
+  "versionCode": 26051004,
   "downloadUrl": "http://xckj.uno:6081/public/tools/Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta09/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta09/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta09/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta09/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v2.0-Beta09/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.5/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.5/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.5/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.5/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.5/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 添加 8 Gen 2 漏洞解锁\n- 添加 8 Gen 2 及以上免解降级\n- 修改 下载线刷包时可以选择版本\n- 更改 下载服务器（是的没错，再一次）",
+  "releaseNotes": "- 版本 我们，来到了正式版！\n- 修复 8 Gen 1 降级界面的下载线刷包功能异常\n- 添加 8 Elite 解锁功能\n- 优化 获取临时 Root 时使用两种安装管理器方法，修复指令错误",
   "forceUpdate": true
 }
