@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.5 已上线，为您带来更好的 UI，更丰富的功能。",
+      "message": "v26.5.1 已上线，为您带来更好的 UI，更丰富的功能。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 版本 我们，来到了正式版！\n- 修复 8 Gen 1 降级界面的下载线刷包功能异常\n- 添加 8 Elite 解锁功能\n- 优化 获取临时 Root 时使用两种安装管理器方法，修复指令错误",
+      "message": "- 添加 8 Gen 3、8s Gen 3 和 8 Elite Gen 5 漏洞解锁\n- 添加 安装驱动提醒\n- 添加 Fastboot 设备检测\n- 更改 原装数据线提示添加5秒倒计时\n- 更改 每次操作完成后自动保存日志",
       "isClosable": false
     },
     {
@@ -22,7 +22,7 @@
     {
       "severity": "Warning",
       "title": "重要提醒",
-      "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。（Xiaomi 12 系列、 Xiaomi 12S 系列及 Redmi Note 12 Turbo 可无视）",
+      "message": "在 2026 年 2 月补丁更新后，此漏洞被修复，无法使用工具中的任何功能。\n（Xiaomi 12 系列、 Xiaomi 12S 系列及 Redmi Note 12 Turbo 可无视）",
       "isClosable": false
     },
     {
