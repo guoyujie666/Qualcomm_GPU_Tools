@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.5.1 已上线，为您带来更好的 UI，更丰富的功能。",
+      "message": "v26.5.2 已上线，为您带来更好的 UI，更丰富的功能。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 添加 8 Gen 3、8s Gen 3 和 8 Elite Gen 5 漏洞解锁\n- 添加 安装驱动提醒\n- 添加 Fastboot 设备检测\n- 更改 原装数据线提示添加5秒倒计时\n- 更改 每次操作完成后自动保存日志",
+      "message": "- 修复 8 Elite 解锁和 8s Gen 3 解锁不可用的问题",
       "isClosable": false
     },
     {
