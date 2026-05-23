@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.5.2 已上线，为您带来更好的 UI，更丰富的功能。",
+      "message": "v26.5.3 已上线，为您带来更好的 UI，更丰富的功能。",
       "icon": "Success",
       "isClosable": false
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 8 Elite 解锁和 8s Gen 3 解锁不可用的问题",
+      "message": "- 优化了导航栏设计，提升了用户体验。\n- 添加了赞助弹窗（觉得烦人可以关闭）\n- 添加 获取临时 Root (8 Gen 2 及以上)\n- 其他记不得了，反正就是优化了很多东西...吧",
       "isClosable": false
     },
     {
