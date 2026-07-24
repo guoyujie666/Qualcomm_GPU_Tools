@@ -9,6 +9,6 @@
     "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7/Qualcomm_GPU_Tools_WinUI3.exe",
     "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 修复 Fastboot 模式下无法获取设备代号的问题\n- 修复部分设备执行 Fastboot 命令时卡住的问题\n- 拥有刷写权限的设备降级时可直接刷机，跳过漏洞流程（人话：救砖）\n- 在 Fastboot 的 8 Gen 2 以上设备的降级流程减少一次重启，操作更快\n- 其他稳定性优化和 Bug 修复","
+  "releaseNotes": "- 更新内置 Root 管理器版本\n- 修复 Fastboot 模式下无法获取设备代号的问题\n- 修复部分设备执行 Fastboot 命令时卡住的问题\n- 拥有刷写权限的设备降级时可直接刷机，跳过漏洞流程（人话：救砖）\n- 在 Fastboot 的 8 Gen 2 以上设备的降级流程减少一次重启，操作更快\n- 其他稳定性优化和 Bug 修复",
   "forceUpdate": true
 }
