@@ -1,14 +1,15 @@
 {
-  "version": "v26.7.1",
-  "versionCode": 26072415,
-  "downloadUrl": "http://xckj.uno:80/public/tools/Qualcomm_GPU_Tools_WinUI3.exe",
+  "version": "v26.9",
+  "versionCode": 26092520,
+  "downloadUrl": "http://pubg2018ps.dpdns.org:54188/api/v1/update/file",
+  "localFilePath": "Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.7.1/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 更新内置 Root 管理器版本\n- 修复 Fastboot 模式下无法获取设备代号的问题\n- 修复部分设备执行 Fastboot 命令时卡住的问题\n- 拥有刷写权限的设备降级时可直接刷机，跳过漏洞流程（人话：救砖）\n- 在 Fastboot 的 8 Gen 2 以上设备的降级流程减少一次重启，操作更快\n- 其他稳定性优化和 Bug 修复",
+  "releaseNotes": "- 服务器更换为 战神自维护线路\n- 自动检测系统内置驱动，无需重复安装\n- 更新内置 Root 管理器版本\n- 更新 8 Gen 2 高版本解锁\n- 更新 v2 提权方案，支持 Redmi K50 Gaming，更快速、稳定的提权（感谢 酷安@初心Official 和 @皓皓的小月）\n- 更新 8 Gen 2 解锁流程，无需小包（感谢 酷安@御坂114515号）\n- 新增 通用线刷 功能\n- 其他高版本正在来的路上...",
   "forceUpdate": true
 }
