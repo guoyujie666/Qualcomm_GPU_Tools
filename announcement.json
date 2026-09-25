@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.9 已上线，页面焕新，支持部分高版本。",
+      "message": "v26.9.2 已上线，页面焕新，支持部分高版本。",
       "isClosable": false,
       "icon": "Success"
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 服务器更换为 战神自维护线路\n- 自动检测系统内置驱动，无需重复安装\n- 更新内置 Root 管理器版本\n- 更新 8 Gen 2 高版本解锁\n- 更新 v2 提权方案，支持 Redmi K50 Gaming，更快速、稳定的提权（感谢 酷安@初心Official 和 @皓皓的小月）\n- 更新 8 Gen 2 解锁流程，无需小包（感谢 酷安@御坂114515号）\n- 新增 通用线刷 功能\n- 其他高版本正在来的路上...",
+      "message": "- 服务器更换为 战神自维护线路\n- 自动检测系统内置驱动，无需重复安装\n- 更新内置 Root 管理器版本\n- 更新 8 Gen 2 高版本解锁\n- 更新 v2 提权方案，支持 Redmi K50 Gaming，更快速、稳定的提权（感谢 酷安@初心Official 和 @皓皓的小月）\n- 更新 8 Gen 2 解锁流程，无需小包（感谢 酷安@御坂114515号）\n- 新增 通用线刷 功能\n- 新增 8 Gen 2 高版本回退小包解锁\n- 修复 线刷用户脚本 255 错误的问题\n- 8 Gen 2 高版本提权现已接入 临时 Root 和 免解降级 （8 Gen 2+）\n- 修复 路径不符合要求时拒绝路径输入，要求不长于100字符，不能含有中文和空格\n- ADB 部分字符串翻译\n- 其他高版本正在来的路上...",
       "isClosable": false
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "severity": "Informational",
-      "title": "乐乐白子",
-      "message": "乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子乐乐白子",
+      "title": "白子",
+      "message": "白子\uD83E\uDD13白子\uD83E\uDD13可不可以变成小萝莉？\uD83D\uDE0B\uD83D\uDE0B\uD83D\uDE0B\n变一下\uD83D\uDE0B就一下\uD83D\uDE18让我陪陪你\uD83D\uDE1B\uD83D\uDE1B\uD83D\uDE1B\n给你当了多天管理\uD83D\uDE0C\uD83D\uDE0C\uD83D\uDE0C你天经地义\uD83E\uDD7A\uD83E\uDD7A\uD83E\uDD7A\n我肯定会温柔体贴\uD83D\uDE18\uD83D\uDE18\uD83D\uDE18不搞疼你\uD83E\uDD7A\uD83E\uDD7A\uD83E\uDD7A\n我的好白子\uD83D\uDE23\uD83D\uDE23\uD83D\uDE23快点变成小萝莉\uD83D\uDE1B\uD83D\uDE1B\uD83D\uDE1B\n我的小萝莉\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D让我好好抱抱你\uD83D\uDE0B\uD83D\uDE0B\uD83D\uDE0B",
       "isClosable": false
     }
   ]
