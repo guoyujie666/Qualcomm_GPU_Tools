@@ -1,15 +1,15 @@
 {
-  "version": "v26.9.2",
-  "versionCode": 26092523,
+  "version": "v26.9.3",
+  "versionCode": 26092620,
   "downloadUrl": "http://pubg2018ps.dpdns.org:54188/api/v1/update/file",
   "localFilePath": "Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.1/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.1/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.3/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.3/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.3/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.3/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.9.3/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 服务器更换为 战神自维护线路\n- 自动检测系统内置驱动，无需重复安装\n- 更新内置 Root 管理器版本\n- 更新 8 Gen 2 高版本解锁\n- 更新 v2 提权方案，支持 Redmi K50 Gaming，更快速、稳定的提权（感谢 酷安@初心Official 和 @皓皓的小月）\n- 更新 8 Gen 2 解锁流程，无需小包（感谢 酷安@御坂114515号）\n- 新增 通用线刷 功能\n- 新增 8 Gen 2 高版本回退小包解锁\n- 修复 线刷用户脚本 255 错误的问题\n- 8 Gen 2 高版本提权现已接入 临时 Root 和 免解降级 （8 Gen 2+）\n- 修复 路径不符合要求时拒绝路径输入，要求不长于100字符，不能含有中文和空格\n- ADB 部分字符串翻译\n- 其他高版本正在来的路上...",
+  "releaseNotes": "- 服务器更换为 战神自维护线路\n- 自动检测系统内置驱动，无需重复安装\n- 更新内置 Root 管理器版本\n- 更新 8 Gen 2 高版本解锁\n- 更新 v2 提权方案，支持 Redmi K50 Gaming，更快速、稳定的提权（感谢 酷安@初心Official 和 @皓皓的小月）\n- 更新 8 Gen 2 解锁流程，无需小包（感谢 酷安@御坂114515号）\n- 新增 通用线刷 功能\n- 新增 8 Gen 2 高版本回退小包解锁\n- 修复 线刷用户脚本 255 错误的问题\n- 8 Gen 2 高版本提权现已接入 临时 Root 和 免解降级 （8 Gen 2+）\n- 修复 路径不符合要求时拒绝路径输入，要求不长于100字符，不能含有中文和空格\n- ADB 部分字符串翻译\n- 修复新版提权条件\n- 修复 v2 方式降级无法重启到 Fastboot 的问题\n- 修复 v2 方式临时 Root 的网络连接问题 \n- 其他高版本正在来的路上...",
   "forceUpdate": true
 }
