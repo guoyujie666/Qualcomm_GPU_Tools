@@ -3,7 +3,7 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.9.3 已上线，页面焕新，支持部分高版本。",
+      "message": "v26.9.4 已上线，页面焕新，支持部分高版本。",
       "isClosable": false,
       "icon": "Success"
     },
@@ -35,6 +35,12 @@
       "severity": "Informational",
       "title": "白子",
       "message": "白子\uD83E\uDD13白子\uD83E\uDD13可不可以变成小萝莉？\uD83D\uDE0B\uD83D\uDE0B\uD83D\uDE0B\n变一下\uD83D\uDE0B就一下\uD83D\uDE18让我陪陪你\uD83D\uDE1B\uD83D\uDE1B\uD83D\uDE1B\n给你当了多天管理\uD83D\uDE0C\uD83D\uDE0C\uD83D\uDE0C你天经地义\uD83E\uDD7A\uD83E\uDD7A\uD83E\uDD7A\n我肯定会温柔体贴\uD83D\uDE18\uD83D\uDE18\uD83D\uDE18不搞疼你\uD83E\uDD7A\uD83E\uDD7A\uD83E\uDD7A\n我的好白子\uD83D\uDE23\uD83D\uDE23\uD83D\uDE23快点变成小萝莉\uD83D\uDE1B\uD83D\uDE1B\uD83D\uDE1B\n我的小萝莉\uD83D\uDE2D\uD83D\uDE2D\uD83D\uDE2D让我好好抱抱你\uD83D\uDE0B\uD83D\uDE0B\uD83D\uDE0B",
+      "isClosable": false
+    },
+    {
+      "severity": "Informational",
+      "title": "冰冰冰",
+      "message": "冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA\n冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA冰冰冰\uD83E\uDDCA",
       "isClosable": false
     }
   ]
