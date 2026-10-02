@@ -1,15 +1,15 @@
 {
-  "version": "v26.10",
-  "versionCode": 26100120,
+  "version": "v26.10.1",
+  "versionCode": 26100217,
   "downloadUrl": "http://pubg2018ps.dpdns.org:54188/api/v1/update/file",
   "localFilePath": "Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.1/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.1/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.1/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.1/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.1/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 修复 v2 降级黑砖问题\n- 修复 K50G 提权卡死问题\n- 其他忘记了",
+  "releaseNotes": "- 修复提权日志重复问题\n- 尝试修复 K50G 提权时 id 无法获取的问题\n- 将 Redmi Note 13 Pro 添加到支持列表",
   "forceUpdate": true
 }
