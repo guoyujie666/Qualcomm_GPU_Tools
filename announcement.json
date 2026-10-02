@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.10 已上线，页面焕新，支持部分高版本。",
+      "message": "v26.10.1 已上线，小米高通设备 GPU 漏洞利用工具 正式更名为 战神工具箱。",
       "isClosable": false,
       "icon": "Success"
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复 v2 降级黑砖问题\n- 修复 K50G 提权卡死问题\n- 其他忘记了",
+      "message": "- 修复提权日志重复问题\n- 尝试修复 K50G 提权时 id 无法获取的问题\n- 将 Redmi Note 13 Pro 添加到支持列表",
       "isClosable": false
     },
     {
