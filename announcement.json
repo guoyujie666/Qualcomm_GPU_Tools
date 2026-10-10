@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.10.2 已上线。",
+      "message": "v26.10.3 已上线。",
       "isClosable": false,
       "icon": "Success"
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 添加 v2 降级时的一些提醒\n- 添加 等待 Fastboot 设备超时后可以重试\n- 修复 国际版设备支持性\n- 修复 设备映射表缺失一些设备的问题",
+      "message": "- 添加下载验证\n- 修复 Redmi Note 13 Pro 无法使用 v2 提权的问题\n- 再次尝试修复临时 Root 的网络连接问题",
       "isClosable": false
     },
     {
