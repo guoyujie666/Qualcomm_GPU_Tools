@@ -1,15 +1,15 @@
 {
-  "version": "v26.10.3",
-  "versionCode": 26101102,
+  "version": "v26.10.4",
+  "versionCode": 26101117,
   "downloadUrl": "http://pubg2018ps.dpdns.org:54188/api/v1/update/file",
   "localFilePath": "Qualcomm_GPU_Tools_WinUI3.exe",
   "mirrors": [
-    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.3/Qualcomm_GPU_Tools_WinUI3.exe",
-    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.3/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.3/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.3/Qualcomm_GPU_Tools_WinUI3.exe",
-    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.3/Qualcomm_GPU_Tools_WinUI3.exe"
+    "http://hk.gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.4/Qualcomm_GPU_Tools_WinUI3.exe",
+    "http://gh-proxy.org/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.4/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://gh.llkk.cc/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.4/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github-proxy.memory-echoes.cn/https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.4/Qualcomm_GPU_Tools_WinUI3.exe",
+    "https://github.com/guoyujie666/Qualcomm_GPU_Tools/releases/download/v26.10.4/Qualcomm_GPU_Tools_WinUI3.exe"
   ],
-  "releaseNotes": "- 添加下载验证\n- 修复 Redmi Note 13 Pro 无法使用 v2 提权的问题\n- 再次尝试修复临时 Root 的网络连接问题",
+  "releaseNotes": "- 修复临时 Root 缺失文件的问题\n- 修复 8 Gen 2 临时 Root 不激活管理器的问题",
   "forceUpdate": true
 }
