@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.10.4 已上线。",
+      "message": "v26.10.5 已上线。",
       "isClosable": false,
       "icon": "Success"
     },
     {
       "severity": "Informational",
       "title": "更新日志",
-      "message": "- 修复临时 Root 缺失文件的问题\n- 修复 8 Gen 2 临时 Root 不激活管理器的问题",
+      "message": "- 修复临时 Root 缺失文件的问题",
       "isClosable": false
     },
     {
