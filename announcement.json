@@ -3,14 +3,14 @@
     {
       "severity": "Success",
       "title": "版本更新",
-      "message": "v26.10.5 已上线。",
+      "message": "v26.11 已上线。",
       "isClosable": false,
       "icon": "Success"
     },
     {
       "severity": "Informational",
-      "title": "更新日志",
-      "message": "- 修复临时 Root 缺失文件的问题",
+      "title": "更新内容",
+      "message": "- 修复 8 Gen 3 漏洞解锁时选择高版本方案仍是宽容方案的问题\n- 更改 服务器地址 江苏镇江 -> 山东枣庄\n- 更新 内置 Root 管理器版本",
       "isClosable": false
     },
     {
